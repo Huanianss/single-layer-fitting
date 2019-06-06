@@ -6,7 +6,7 @@
 ### [psomain.py][2]  is the main function of PSO 
 ### [meritFunc.py][3] calculates the merit function of PSO 
 ### [main.py][4] calculates the transmittance of substrates and single layer coatings 
-### substrate.cs vand singleLayer.csv are the transmission spectrums data of substrate and single layer coating 
+### substrate.csv and singleLayer.csv are the transmission spectrums data of substrate and single layer coating 
 [1]: https://github.com/Huanianss/single-layer-fitting/blob/master/single_layer_fitting.py
 [2]: https://github.com/Huanianss/single-layer-fitting/blob/master/psomain.py
 [3]: https://github.com/Huanianss/single-layer-fitting/blob/master/meritFunc.py
